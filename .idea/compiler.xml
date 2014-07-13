@@ -25,6 +25,9 @@
         <module name="parkland" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parkland" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
